@@ -1,2 +1,19 @@
+basics:
+http://www.techrepublic.com/article/preloading-and-the-javascript-image-object/
+and:
+https://github.com/blueimp/JavaScript-Load-Image#demo
+
+
+
 how to work with images:
 http://blog.teamtreehouse.com/learn-asynchronous-image-loading-javascript
+
+howto show an image in html via java:
+var myImage = new Image(100, 200);
+myImage.src = 'picture.jpg';
+console.log(myImage);
+
+--> result = 
+<img width="100" height="200" src="picture.jpg">
+
+src: https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/Image
